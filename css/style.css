@@ -19,7 +19,12 @@ body {
 }
 
 /* Write all remaining styles here */
-h1, h2 {
+h1 {
+  font-size: 250%;
+  font-family: 'Times New Roman';
+  color: #779788;
+}
+h2 {
   font-size: 150%;
   font-family: 'Times New Roman';
   color: #779788;
